@@ -5,6 +5,7 @@ It helps users **apply for jobs automatically** by generating personalized, prof
 
 ---
 
+
 ## 🚀 Features
 
 - 🤖 **AI Email Generation** – Auto-create subject & body based on job details  
@@ -15,7 +16,7 @@ It helps users **apply for jobs automatically** by generating personalized, prof
 - 🗄️ **MongoDB Integration** – Store user and email data (optional)  
 - 🧩 **Future Plans** – Add job-specific personalization and templates  
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -27,7 +28,7 @@ It helps users **apply for jobs automatically** by generating personalized, prof
 | Auth | JWT |
 | Email | SMTP / Custom Provider |
 
----
+
 
 ## ⚙️ Setup Instructions
 
@@ -78,19 +79,20 @@ uvicorn main:app --reload
 ```bash
 AI_Email_Sender/
 │
-├── frontend/          # Next.js frontend
+├── frontend/              # Next.js frontend
 │   ├── components/
 │   ├── pages/
 │   └── ...
 │
-├── backend/           # FastAPI backend
+├── backend/               # FastAPI backend
 │   ├── main.py
 │   ├── routes/
+│   ├── requirements.txt
 │   └── ...
 │
 ├── .gitignore
-├── README.md
-└── requirements.txt
+└── README.md
+
 ```
 
 
@@ -100,7 +102,10 @@ AI_Email_Sender/
 - **Analytics dashboard**
 - **Multiple email templates**
 
+---
+
 ## 👨‍💻 Author
 
 ***Vishwas Singh***
+📫 [GitHub Profile](https://github.com/thevishwass)
 
