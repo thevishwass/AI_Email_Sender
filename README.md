@@ -1,4 +1,4 @@
-# 🧠 AI Email Sender
+# AI Email Sender
 
 An **AI-powered email automation tool** built with **Next.js** (frontend) and **FastAPI** (backend).  
 It helps users **apply for jobs automatically** by generating personalized, professional emails — with plans to add deeper customization soon.
@@ -61,12 +61,12 @@ It helps users **apply for jobs automatically** by generating personalized, prof
 
 5. **Run the app**
 
-### Backend
+- *Backend*
    ```bash
-cd ../backend
-uvicorn main:app --reload
-```
-### Frontend
+   cd ../backend
+   uvicorn main:app --reload
+      ```
+- *Frontend*
    ```bash
     cd frontend
     npm run dev
