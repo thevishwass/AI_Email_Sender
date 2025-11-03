@@ -116,5 +116,4 @@ AI_Email_Sender/
 
 ***Vishwas Singh***  
 
-📫 [GitHub Profile](https://github.com/thevishwass)
 
