@@ -1,0 +1,47 @@
+# --- Core FastAPI stack ---
+fastapi==0.119.1
+uvicorn==0.38.0
+starlette==0.48.0
+pydantic==2.12.3
+pydantic-core==2.41.4
+pydantic-settings==2.11.0
+python-multipart==0.0.20
+
+# --- Authentication & Security ---
+bcrypt==4.0.1
+passlib==1.7.4
+python-jose==3.5.0
+email-validator==2.3.0
+
+# --- Database & ORM ---
+motor==3.7.1
+pymongo==4.15.3
+
+# --- Environment & Utilities ---
+python-dotenv==1.1.1
+cachetools==6.2.1
+click==8.3.0
+tqdm==4.67.1
+
+# --- HTTP Clients & Networking ---
+httpx==0.28.1
+requests==2.32.5
+urllib3==2.5.0
+dnspython==2.8.0
+idna==3.11
+charset-normalizer==3.4.4
+
+# --- Google / AI Integrations ---
+google-ai-generativelanguage==0.6.15
+google-generativeai==0.8.5
+google-auth==2.41.1
+google-auth-oauthlib==1.2.1
+google-auth-httplib2==0.2.0
+google-api-core==2.26.0
+google-api-python-client==2.185.0
+googleapis-common-protos==1.71.0
+grpcio==1.76.0
+protobuf==5.29.5
+
+# --- Logging / Output / Dev Tools ---
+colorama==0.4.6
