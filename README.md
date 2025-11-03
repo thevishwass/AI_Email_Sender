@@ -3,7 +3,8 @@
 An **AI-powered email automation tool** built with **Next.js** (frontend) and **FastAPI** (backend).  
 It helps users **apply for jobs automatically** by generating personalized, professional emails — with plans to add deeper customization soon.
 
----
+<hr>
+
 
 
 ## 🚀 Features
@@ -16,6 +17,7 @@ It helps users **apply for jobs automatically** by generating personalized, prof
 - 🗄️ **MongoDB Integration** – Store user and email data (optional)  
 - 🧩 **Future Plans** – Add job-specific personalization and templates  
 
+<hr>
 
 
 ## 🛠️ Tech Stack
@@ -28,6 +30,7 @@ It helps users **apply for jobs automatically** by generating personalized, prof
 | Auth | JWT |
 | Email | SMTP / Custom Provider |
 
+<hr>
 
 
 ## ⚙️ Setup Instructions
@@ -58,21 +61,24 @@ It helps users **apply for jobs automatically** by generating personalized, prof
 
 5. **Run the app**
 
-# Backend
+## Backend
    ```bash
 cd ../backend
 uvicorn main:app --reload
 ```
-# Frontend
+## Frontend
    ```bash
     cd frontend
     npm run dev
    ```
 
-5. **Visit**
+6. **Visit**
    ```bash
    http://localhost:3000
    ```
+
+<hr>
+
 
 ## 📁 Folder Structure
 
@@ -94,6 +100,7 @@ AI_Email_Sender/
 └── README.md
 
 ```
+<hr>
 
 
 ## 🧭 Roadmap
@@ -102,7 +109,8 @@ AI_Email_Sender/
 - **Analytics dashboard**
 - **Multiple email templates**
 
----
+<hr>
+
 
 ## 👨‍💻 Author
 
