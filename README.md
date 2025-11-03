@@ -61,12 +61,12 @@ It helps users **apply for jobs automatically** by generating personalized, prof
 
 5. **Run the app**
 
-## Backend
+### Backend
    ```bash
 cd ../backend
 uvicorn main:app --reload
 ```
-## Frontend
+### Frontend
    ```bash
     cd frontend
     npm run dev
@@ -114,6 +114,7 @@ AI_Email_Sender/
 
 ## 👨‍💻 Author
 
-***Vishwas Singh***
+***Vishwas Singh***  
+
 📫 [GitHub Profile](https://github.com/thevishwass)
 
